@@ -1,6 +1,6 @@
 <img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InBhcnR5dGltZSIsInRleHQiOiJEYXRhJTIwU2NpZW5jZSUyMFN0dWRlbnQiLCJpYXQiOjE3MTg3OTU2NzZ9.jrx0e3iK69EF6Dc_ailZcqTyA1Hpo5KOdrDRjlWcXiA" alt="MasterHead" height="380" width="1000">
 <h1 align="center">Hi 👋, I'm Đinh Vũ Ngọc Linh</h1>
-<h3 align="center">I am a 3rd year student majoring in Data Science at International University - VNUHCM in Vietnam</h3>
+<h3 align="center">I am a student majoring in Data Science at International University - VNUHCM in Vietnam</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhvungoclinh&label=Profile%20views&color=0e75b6&style=flat" alt="DinhVuNgocLinh" /> </p>
