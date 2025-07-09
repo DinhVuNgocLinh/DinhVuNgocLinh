@@ -6,12 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhvungoclinh&label=Profile%20views&color=0e75b6&style=flat" alt="DinhVuNgocLinh" /> </p>
 <h3 align="left">About me</h3>
 
-- 💻 Passionate about data analysis, data engineering, and related fields
-
-- ❤️ I am looking for an Intern position related to my major
-
-- ✌️ Enjoy life, enjoy learn
-  
 - 📩 Contact me via: **dinhvungoclinh55371@gmail.com**
 
 
