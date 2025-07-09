@@ -4,7 +4,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhvungoclinh&label=Profile%20views&color=0e75b6&style=flat" alt="DinhVuNgocLinh" /> </p>
-<h3 align="left">About me</h3>
 
 - 📩 Contact me via: **dinhvungoclinh55371@gmail.com**
 
