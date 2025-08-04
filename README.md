@@ -14,8 +14,6 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
   </a> 
@@ -28,17 +26,15 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
   </a>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://www.linkedin.com/in/dinh-vu-ngoc-linh-04286b311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinhvungoclinh" height="30" width="40" /></a>
-<a href="https://github.com/DinhVuNgocLinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dinhvungoclinh" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/dinh-vu-ngoc-linh-04286b311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinhvungoclinh" height="30" width="40" /></a>
+<a href="https://github.com/DinhVuNgocLinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dinhvungoclinh" height="30" width="40" /></a>
 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DinhVuNgocLinh&show_icons=true&locale=en&layout=compact" alt="DinhVuNgocLinh" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DinhVuNgocLinh&show_icons=true&locale=en&layout=compact" alt="DinhVuNgocLinh" /></p> -->
 
 
 
